@@ -37,10 +37,10 @@ QuizApp/
 
 ## Output
 - Enter User details and select category
-- <img width="1280" alt="Enter-user-detail" src="https://github.com/user-attachments/assets/c1d7ab97-5500-41cb-8627-dd82d0163169" />
+<img width="1280" alt="Enter-user-detail" src="https://github.com/user-attachments/assets/c1d7ab97-5500-41cb-8627-dd82d0163169" />
 
 - Showing status of correct and incorrect answers
-- <img width="1280" alt="showing-answer-status" src="https://github.com/user-attachments/assets/2255b8fa-d8ec-45ae-a167-cf8755530bb6" />
+<img width="1280" alt="showing-answer-status" src="https://github.com/user-attachments/assets/2255b8fa-d8ec-45ae-a167-cf8755530bb6" />
 
 - Result after completing quiz
--<img width="1280" alt="Result-after-completing-quiz" src="https://github.com/user-attachments/assets/fa91cd4b-a6aa-478f-a90b-4282eb4f9dda" />
+<img width="1280" alt="Result-after-completing-quiz" src="https://github.com/user-attachments/assets/fa91cd4b-a6aa-478f-a90b-4282eb4f9dda" />
